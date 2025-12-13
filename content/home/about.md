@@ -2,7 +2,7 @@
 # About widget.
 widget = "about"
 headless = true
-active = true
+active = false
 weight = 20
 
 # Use your main author profile
