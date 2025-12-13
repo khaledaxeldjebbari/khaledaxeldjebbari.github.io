@@ -1,83 +1,59 @@
 ---
 # Display name
-name: Michael Vahn
+name: Khaled Axel Djebbari
 avatar_image: "user-full.png"
+
 # Username (this should match the folder name)
 authors:
 - admin
-# resume download button
+
+# Resume download button
 btn:
-- url : "https://docs.gethugothemes.com/guide/"
-  label : "Download Resume"
+- url: "/uploads/CV.pdf"
+  label: "Download CV"
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Researcher in Environmental Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Department of Civil & Environmental Engineering, University of Connecticut
   url: ""
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# Short bio (used across the site)
+bio: Environmental engineer and environmental health scientist studying PFAS–microplastic interactions, environmental fate and transport, and mechanistic toxicology using multiscale experimentation and modeling.
 
-# Should the user's education and interests be displayed?
+# Display education on profile
 display_education: false
 
+# Research interests (short list)
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- PFAS–microplastic interactions and aging
+- Environmental fate and transport
+- Mechanistic toxicology and membrane transport
+- Reactive transport modeling
+- Advanced treatment technologies
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/academia Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+# Social / academic profiles
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: "mailto:khaled.axel.djebbari@gmail.com"
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: "https://scholar.google.com/"
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: "https://github.com/khaledaxeldjebbari"
+- icon: linkedin
+  icon_pack: fab
+  link: "https://www.linkedin.com/"
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-  
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+email: "khaled.axel.djebbari@gmail.com"
+
 user_groups:
 - Researchers
-- Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
