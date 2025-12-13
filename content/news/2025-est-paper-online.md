@@ -1,6 +1,6 @@
 +++
 title = "ES&T paper now published online"
-date = 2025-12-20
+date = 2025-12-13
 +++
 
 Our paper **“Release of Fluoro-Contained Free Radicals and Polyfluorinated-Like Molecules from Photoaged Fluorinated Microplastics”** is now published in *Environmental Science & Technology*.
