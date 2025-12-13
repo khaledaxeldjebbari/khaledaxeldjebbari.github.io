@@ -11,7 +11,7 @@ title = "Latest News"
   count = 3
 
 [design]
-  columns = "1"
+  columns = "2"
 +++
 
 <div style="text-align:center; margin-top: 1.5rem;">
