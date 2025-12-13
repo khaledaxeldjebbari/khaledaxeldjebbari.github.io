@@ -6,7 +6,6 @@ weight = 10
 
 title = "Khaled Axel Djebbari"
 
-# Image must exist in static/img/
 hero_media = "user-full.png"
 
 [design.background]
@@ -23,6 +22,7 @@ hero_media = "user-full.png"
 +++
 
 ## **PhD Researcher in Environmental Engineering**
-### **PFAS–Microplastic Interactions · Environmental Fate & Transport · Environmental Health**
+### **Department of Civil & Environmental Engineering, University of Connecticut**
 
-I study the mechanistic behavior, environmental mobility, and health impacts of PFAS–microplastic co-contaminants using multiscale experimentation, molecular simulation, mechanistic toxicology, and reactive transport modeling.
+**Research interests:**  
+PFAS–microplastic interactions · Environmental fate & transport · Environmental health · Mechanistic toxicology · Reactive transport modeling
