@@ -25,4 +25,4 @@ hero_media = "user-full.png"
 ### **Department of Civil & Environmental Engineering, University of Connecticut**
 
 **Research interests:**  
-PFAS–microplastic interactions · Environmental fate & transport · Environmental health · Mechanistic toxicology · Reactive transport modeling
+I study emergent contaminants—including PFAS, pesticides, and microplastics—with a focus on their interactions, environmental fate and transport, mechanistic toxicology, and reactive transport across soils, aquatic systems, and wastewater infrastructure. My work also explores next-generation treatment technologies to mitigate these contaminants. Views expressed here are my own.
