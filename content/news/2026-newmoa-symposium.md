@@ -9,3 +9,4 @@ I will be leading two symposia at **NEWMOA’s 2026 Conference on the Science of
 - **Toxicology, Human Health, and Ecological Impact**
 
 The conference registration is now open, and program details will continue to be finalized.
+🔗 Conference website: https://pfas2026.vfairs.com/
