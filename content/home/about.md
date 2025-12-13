@@ -1,12 +1,22 @@
 +++
 # About widget.
-widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear in.
-# Choose the user profile to display
-# This should be the username of a profile in your `content/authors/` folder.
-# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
+widget = "about"
+headless = true
+active = true
+weight = 20
+
+# Use your main author profile
 author = "admin"
-avatar_image= "user-2.jpg"
+
+# Show avatar (photo)
+avatar_image = "user-full.png"
+
+# Show social links from authors/admin/_index.md
+show_social = true
+
+# Show latest content (publications, talks, posts)
+show_latest = true
+
+# Number of recent items to show
+count = 5
 +++
