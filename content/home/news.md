@@ -12,8 +12,8 @@ title = "Latest News"
 
 [design]
   columns = "1"
-
-[design.cta]
-  url = "/news/"
-  label = "View all news"
 +++
+
+<div style="text-align:center; margin-top: 1.5rem;">
+  <a class="btn btn-primary" href="/news/">View all news</a>
+</div>
