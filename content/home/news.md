@@ -13,7 +13,7 @@ title = "Latest News"
 [design]
   columns = "1"
 
-[cta]
+[design.cta]
   url = "/news/"
   label = "View all news"
 +++
