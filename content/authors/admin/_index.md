@@ -38,19 +38,29 @@ interests:
 - Advanced treatment technologies
 
 # Social / academic profiles
+
+
 social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:khaled.axel.djebbari@gmail.com"
+
 - icon: google-scholar
   icon_pack: ai
-  link: "https://scholar.google.com/"
+  link: "https://scholar.google.com/citations?user=jgj2IooAAAAJ&hl=en"
+
+- icon: linkedin
+  icon_pack: fab
+  link: "https://www.linkedin.com/in/khaled-axel-djebbari-42a05819b"
+
 - icon: github
   icon_pack: fab
   link: "https://github.com/khaledaxeldjebbari"
-- icon: linkedin
-  icon_pack: fab
-  link: "https://www.linkedin.com/"
+
+- icon: orcid
+  icon_pack: ai
+  link: "https://orcid.org/0009-0009-3890-6522"
+
 
 email: "khaled.axel.djebbari@gmail.com"
 
