@@ -1,6 +1,6 @@
 ---
 title: "ES&T paper now published online"
-date: 2025-01-15
+date: 2025-12-15
 ---
 
 Our paper **“Release of Fluoro-Contained Free Radicals and Polyfluorinated-Like Molecules from Photoaged Fluorinated Microplastics: Identification and Formation Mechanisms”** is now published in *Environmental Science & Technology*.
