@@ -5,9 +5,13 @@ active = true
 weight = 20
 
 author = "admin"
-avatar_image = "user-full.png"
-show_social = true
 
+# DO NOT show text or buttons
+show_social = true
+show_education = false
+show_interests = false
+
+# Layout
 [design]
   columns = "4"
 +++
