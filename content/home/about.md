@@ -1,17 +1,13 @@
 +++
 widget = "about"
 headless = true
-active = false
-weight = 20
+active = true
+weight = 15
 
 author = "admin"
+avatar_image = "khaled-avatar.png"
 
-# DO NOT show text or buttons
 show_social = true
 show_education = false
 show_interests = false
-
-# Layout
-[design]
-  columns = "4"
 +++
