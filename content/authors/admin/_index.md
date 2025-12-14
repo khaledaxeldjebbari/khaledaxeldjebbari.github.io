@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Khaled Axel Djebbari
-avatar: "khaled-avatar.png"
+avatar: khaled-avatar.png
 
 
 # Username (this should match the folder name)
