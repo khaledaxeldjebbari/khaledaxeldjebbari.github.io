@@ -2,7 +2,7 @@
 widget = "pages"
 headless = true
 active = true
-weight = 20
+weight = 21
 
 title = "Latest News"
 
@@ -12,4 +12,8 @@ title = "Latest News"
 
 [design]
   columns = "8"
+
+[cta]
+  url = "/news/"
+  label = "View all news"
 +++
