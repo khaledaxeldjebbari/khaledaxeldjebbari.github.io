@@ -7,7 +7,7 @@ weight = 20
 title = "Latest News"
 
 [content]
-  page_type = "post"
+  page_type = "news"
   count = 3
 
 [design]
