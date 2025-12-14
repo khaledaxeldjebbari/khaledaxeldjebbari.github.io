@@ -9,6 +9,7 @@
 
     {{ if $page.Params.hero_media }}
     <div class="row">
+
       <!-- TEXT COLUMN -->
       <div class="col-md-6 order-md-1 text-center text-md-left align-self-center">
 
@@ -18,40 +19,17 @@
         </div>
         {{ end }}
 
-        {{/* Call-to-action buttons */}}
         {{ if $page.Params.btn.url }}
-          {{ $pack := or $page.Params.btn.icon_pack "fas" }}
-          {{ $pack_prefix := $pack }}
-          {{ if in (slice "fab" "fas" "far" "fal") $pack }}
-            {{ $pack_prefix = "fa" }}
-          {{ end }}
-          {{ $link := $page.Params.btn.url }}
-          {{ $scheme := (urls.Parse $link).Scheme }}
-          {{ $target := "" }}
-          {{ if not $scheme }}
-            {{ $link = $link | relLangURL }}
-          {{ else if in (slice "http" "https") $scheme }}
-            {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
-          {{ end }}
-
+          {{ $link := $page.Params.btn.url | relLangURL }}
           <p class="mt-4">
-            <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}
-               class="btn {{if $bg.text_color_light}}btn-light{{else}}btn-primary{{end}} btn-lg">
-              {{ $page.Params.btn.label | markdownify | emojify | safeHTML }}
+            <a href="{{ $link }}" class="btn btn-primary btn-lg">
+              {{ $page.Params.btn.label }}
             </a>
 
             {{ if $page.Params.btn_alt.url }}
-              {{ $link := $page.Params.btn_alt.url }}
-              {{ $scheme := (urls.Parse $link).Scheme }}
-              {{ $target := "" }}
-              {{ if not $scheme }}
-                {{ $link = $link | relLangURL }}
-              {{ else if in (slice "http" "https") $scheme }}
-                {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
-              {{ end }}
-              <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}
-                 class="btn btn-lg {{if $bg.text_color_light}}btn-outline-light{{else}}btn-outline-primary{{end}}">
-                {{ $page.Params.btn_alt.label | markdownify | emojify | safeHTML }}
+              <a href="{{ $page.Params.btn_alt.url | relLangURL }}"
+                 class="btn btn-outline-primary btn-lg">
+                {{ $page.Params.btn_alt.label }}
               </a>
             {{ end }}
           </p>
@@ -59,19 +37,19 @@
 
       </div>
 
-      <!-- IMAGE + SOCIAL ICONS COLUMN -->
+      <!-- IMAGE + SOCIAL ICONS -->
       <div class="col-10 mx-auto col-md-6 order-md-2 hero-media text-center">
 
         <img class="hero-img img-fluid mb-3"
              src="{{ printf "img/%s" $page.Params.hero_media | relURL }}"
              alt="Hero image">
 
-        {{/* Social icons under portrait */}}
         {{ with site.GetPage "authors/admin" }}
-          {{ partial "social_links.html" . }}
+          {{ partial "social.html" . }}
         {{ end }}
 
       </div>
+
     </div>
     {{ end }}
 
