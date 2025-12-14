@@ -47,8 +47,20 @@
   {{/* Hero image */}}
   {{ if $page.Params.hero_media }}
   </div>
-  <div class="col-10 mx-auto col-md-6 order-md-2 hero-media">
-    <img class="hero-img img-fluid" src="{{ printf "img/%s" $page.Params.hero_media | relURL }}" alt="Hero image">
+ 
+<div class="col-10 mx-auto col-md-6 order-md-2 hero-media text-center">
+  <img class="hero-img img-fluid mb-3" src="{{ printf "img/%s" $page.Params.hero_media | relURL }}" alt="Hero image">
+
+  {{ with site.GetPage "authors/admin" }}
+  {{ if .Params.social }}
+  <div class="hero-social mt-3">
+    {{ partial "social_links.html" . }}
   </div>
+  {{ end }}
+  {{ end }}
+</div>
+
+
+  
 </div>
 {{ end }}
