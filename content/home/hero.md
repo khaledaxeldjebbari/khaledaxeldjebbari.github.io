@@ -9,7 +9,7 @@ weight = 10
 title = "Khaled Axel Djebbari"
 
 # Hero image (must exist in static/img/)
-hero_media = "user-full.png"
+hero_media = "khaled-hero.jpg"
 
 [design.background]
   color = "#ffffff"
