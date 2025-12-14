@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Khaled Axel Djebbari
-avatar_image: "user-full.png"
+avatar_image: "khaled-avatar.png"
 
 # Username (this should match the folder name)
 authors:
