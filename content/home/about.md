@@ -1,7 +1,7 @@
 +++
 widget = "about"
 headless = true
-active = true
+active = false
 weight = 20
 
 author = "admin"
