@@ -1,19 +1,19 @@
 +++
-widget = "posts"
+widget = "pages"
 headless = true
 active = true
-weight = 30
+weight = 20
 
 title = "Latest News"
 
-# Use posts as news
-content_type = "post"
+[content]
+  page_type = "news"
+  count = 3
 
-# Show only the latest 3
-count = 3
-
-# Show button to archive
-archive = true
-archive_label = "View all news"
-archive_url = "/posts/"
+[design]
+  columns = "1"
 +++
+
+<div style="text-align:center; margin-top: 1.5rem;">
+  <a class="btn btn-primary" href="/news/">View all news</a>
+</div>
