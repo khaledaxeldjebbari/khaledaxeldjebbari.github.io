@@ -1,1 +1,10 @@
+<div class="hero-social" style="margin-top:1rem; text-align:center;">
+  {{ with site.Author.social }}
+    {{ range . }}
+      <a href="{{ .link }}" target="_blank" rel="noopener" style="margin:0 6px;">
+        <i class="{{ .icon_pack }} fa-{{ .icon }}"></i>
+      </a>
+    {{ end }}
+  {{ end }}
+</div>
 
