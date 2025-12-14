@@ -1,13 +1,15 @@
 +++
-widget = "posts"
+widget = "pages"
 headless = true
 active = true
-weight = 30
+weight = 20
 
 title = "Latest News"
 
-count = 3
-show_more = true
-show_more_text = "View all news"
-show_more_url = "/posts/"
+[content]
+  page_type = "post"
+  count = 3
+
+[design]
+  columns = "8"
 +++
