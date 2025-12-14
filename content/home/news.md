@@ -1,14 +1,13 @@
 +++
-widget = "news"
+widget = "posts"
 headless = true
 active = true
-weight = 20
+weight = 30
 
 title = "Latest News"
 
 count = 3
-archive_link = "/news/"
-
-[design]
-  columns = "8"
+show_more = true
+show_more_text = "View all news"
+show_more_url = "/posts/"
 +++
