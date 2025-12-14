@@ -45,7 +45,10 @@
              alt="Hero image">
 
         {{ with site.GetPage "authors/admin" }}
-          {{ partial "social.html" . }}
+        
+
+        {{ partial "author_links.html" (site.GetPage "authors/admin") }}
+
         {{ end }}
 
       </div>
