@@ -1,19 +1,16 @@
 +++
-widget = "pages"
+widget = "news"
 headless = true
 active = true
-weight = 21
+weight = 30
 
 title = "Latest News"
 
-[content]
-  page_type = "news"
-  count = 3
+# Show only the 3 most recent items
+count = 3
 
-[design]
-  columns = "8"
-
-[cta]
-  url = "/news/"
-  label = "View all news"
+# ENABLE archive button
+archive = true
+archive_label = "View all news"
+archive_url = "/news/"
 +++
