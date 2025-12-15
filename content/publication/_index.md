@@ -13,3 +13,11 @@ header:
   caption: ""
   image: ""
 ---
+---
+title: "Publications"
+summary: ""
+cascade:
+  show_summary: false
+  show_buttons: false
+  show_author: false
+---
