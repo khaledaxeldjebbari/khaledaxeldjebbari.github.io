@@ -3,6 +3,8 @@ title: "Short CV"
 slug: "short-cv"
 summary: "Concise academic CV of Khaled Axel Djebbari"
 type: "page"
+comments: false
+
 ---
 
 ## **Research Interests**
