@@ -1,1 +1,97 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Academia</title><link>/</link><description>Recent content on Academia</description><generator>Source Themes academia (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright &amp;copy; {year}</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Recent &amp; Upcoming Talks</title><link>/talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>/talk/</guid><description/></item><item><title>News</title><link>/news/</link><pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate><guid>/news/</guid><description/></item><item><title>Courses</title><link>/courses/</link><pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate><guid>/courses/</guid><description/></item><item><title>Publications</title><link>/publication/</link><pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate><guid>/publication/</guid><description/></item><item><title>Posts</title><link>/post/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>/post/</guid><description/></item><item><title>Slides</title><link>/slides/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>/slides/</guid><description/></item><item><title>Projects</title><link>/project/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>/project/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Academia</title><link>/</link><description>Recent content on Academia</description><generator>Source Themes academia (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright &amp;copy; {year}</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Recent &amp; Upcoming Talks</title><link>/talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>/talk/</guid><description/></item><item><title>News</title><link>/news/</link><pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate><guid>/news/</guid><description/></item><item><title>Courses</title><link>/courses/</link><pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate><guid>/courses/</guid><description/></item><item><title>Publications</title><link>/publication/</link><pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate><guid>/publication/</guid><description/></item><item><title>Posts</title><link>/post/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>/post/</guid><description/></item><item><title>Slides</title><link>/slides/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>/slides/</guid><description/></item><item><title>Projects</title><link>/project/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>/project/</guid><description/></item><item><title>Short CV</title><link>/short-cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/short-cv/</guid><description>&lt;h2 id="research-interests">&lt;strong>Research Interests&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>PFAS–microplastic interactions and aging&lt;/li>
+&lt;li>Environmental fate and transport in soils and aquatic systems&lt;/li>
+&lt;li>Mechanistic toxicology and membrane transport&lt;/li>
+&lt;li>Reactive transport modeling (DOM–MP–PFAS interactions)&lt;/li>
+&lt;li>Advanced treatment technologies (bio-membranes, ultrafiltration benchmarking)&lt;/li>
+&lt;li>Multiscale molecular modeling (MD, DFT) integrated with descriptor-based frameworks&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="education">&lt;strong>Education&lt;/strong>&lt;/h2>
+&lt;p>&lt;strong>Ph.D. in Environmental Engineering&lt;/strong>&lt;br>
+University of Connecticut, Storrs, CT&lt;br>
+2021 – Present (Expected June 2026)&lt;br>
+&lt;em>Dissertation:&lt;/em> Mechanistic Interactions, Environmental Mobility, and Toxicological Impacts of PFAS–Microplastic Co-Contaminants&lt;/p>
+&lt;p>&lt;strong>Doctor of Medicine (M.D.)&lt;/strong>&lt;br>
+Université Paris-Saclay, France&lt;br>
+2025&lt;br>
+&lt;em>Focus:&lt;/em> Exposure pathways, toxicology, and public health&lt;/p>
+&lt;p>&lt;strong>M.Eng. in Bioengineering&lt;/strong>&lt;br>
+National Polytechnic School / Sorbonne University, France &amp;amp; Algeria&lt;br>
+2018&lt;/p>
+&lt;p>&lt;strong>Engineer, Process &amp;amp; Environmental Engineering&lt;/strong>&lt;br>
+National Polytechnic School / Sorbonne University&lt;br>
+2018&lt;/p>
+&lt;hr>
+&lt;h2 id="professional-experience">&lt;strong>Professional Experience&lt;/strong>&lt;/h2>
+&lt;p>&lt;strong>University of Connecticut – Department of Civil &amp;amp; Environmental Engineering&lt;/strong>&lt;br>
+&lt;em>Research Assistant&lt;/em> (2021 – Present)&lt;/p>
+&lt;ul>
+&lt;li>Lead experimental and modeling studies on PFAS–microplastic interactions&lt;/li>
+&lt;li>Designed sorption, aging, toxicity, and soil-column transport experiments&lt;/li>
+&lt;li>Developed descriptor-based mechanistic frameworks&lt;/li>
+&lt;li>Conducted MD/DFT simulations of interfacial energetics&lt;/li>
+&lt;li>Coordinated interdisciplinary collaborations&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>JGC Group, Yokohama, Japan&lt;/strong>&lt;br>
+&lt;em>Process Engineer&lt;/em> (2020 – 2021)&lt;/p>
+&lt;ul>
+&lt;li>Process system design and optimization&lt;/li>
+&lt;li>Mass-balance modeling and reactor design&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>École Doctorale des Sciences de l’Environnement, Marseille, France&lt;/strong>&lt;br>
+&lt;em>Visiting Scholar&lt;/em> (2017 – 2018)&lt;/p>
+&lt;ul>
+&lt;li>Characterization of contaminant–surface interactions&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="selected-publications">&lt;strong>Selected Publications&lt;/strong>&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Djebbari, K. A.; Shor, L. M.; Li, B.&lt;/strong>&lt;br>
+&lt;em>Release of Fluoro-Contained Free Radicals and Polyfluorinated-Like Molecules from Photoaged Fluorinated Microplastics&lt;/em>&lt;br>
+&lt;strong>Environmental Science &amp;amp; Technology&lt;/strong>, 2025&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Djebbari, K. A.; Daliva-Bouchain, J.; Shor, L. M.; Li, B.&lt;/strong>&lt;br>
+&lt;em>Unified Descriptor Model for Pesticide Retention on Weathered Microplastics&lt;/em>&lt;br>
+&lt;strong>Environmental Science &amp;amp; Technology&lt;/strong>, In Press&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Rashid, I.; Djebbari, K.; et al.&lt;/strong>&lt;br>
+&lt;em>Retention of Microplastics in Wastewater Treatment Plants&lt;/em>&lt;br>
+&lt;strong>Environmental Research&lt;/strong>, 2024&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h2 id="manuscripts-under-review">&lt;strong>Manuscripts Under Review&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;em>PFAS–Microplastic Co-Exposure Drives Membrane Translocation and Cellular Stress&lt;/em> — &lt;strong>Nature Water&lt;/strong>&lt;/li>
+&lt;li>&lt;em>PFAS Release from Microplastics in Drinking and Wastewater Systems&lt;/em> — &lt;strong>ES&amp;amp;T&lt;/strong>&lt;/li>
+&lt;li>&lt;em>DOM–Microplastic Interactions Regulate PFAS Transport&lt;/em> — &lt;strong>Journal of Hazardous Materials&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h2>
+&lt;p>&lt;strong>Modeling &amp;amp; Computation&lt;/strong>&lt;br>
+Python, MATLAB, COMSOL, MODFLOW, LAMMPS, Schrödinger/Maestro&lt;/p>
+&lt;p>&lt;strong>Analytical &amp;amp; Characterization&lt;/strong>&lt;br>
+FTIR, HPLC, GC-MS, LC-MS/MS, EPR, NMR, BET, SEM&lt;/p>
+&lt;p>&lt;strong>Biological &amp;amp; Toxicological Methods&lt;/strong>&lt;br>
+Cell culture, flow cytometry, cytotoxicity assays&lt;/p>
+&lt;p>&lt;strong>Data &amp;amp; Visualization&lt;/strong>&lt;br>
+Python (Matplotlib), Origin, ParaView&lt;/p>
+&lt;hr>
+&lt;h2 id="professional-service">&lt;strong>Professional Service&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>NEWMOA 2026 PFAS Conference Planning Committee&lt;/li>
+&lt;li>Reviewer: &lt;em>Environmental Research&lt;/em>, &lt;em>Journal of Environmental Engineering&lt;/em>&lt;/li>
+&lt;li>Parliamentarian, Graduate Student Senate (UConn)&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="teaching--mentorship">&lt;strong>Teaching &amp;amp; Mentorship&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>Guest Lecturer: Emerging Contaminants &amp;amp; Environmental Health&lt;/li>
+&lt;li>Graduate and undergraduate researcher mentorship&lt;/li>
+&lt;li>PFAS–microplastic laboratory module development&lt;/li>
+&lt;/ul></description></item></channel></rss>
