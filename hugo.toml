@@ -2,3 +2,15 @@ baseURL = "https://khaledaxeldjebbari.github.io/"
 languageCode = "en-us"
 title = "Khaled Axel Djebbari"
 theme = "academia-hugo"
+
+# --------------------------------------------------
+# HARD DISABLE COMMENTS / ADS (Disqus)
+# --------------------------------------------------
+[services]
+  [services.disqus]
+    shortname = ""
+
+# --------------------------------------------------
+# SAFETY: Disable comment-related page injections
+# --------------------------------------------------
+disableKinds = ["RSS"]
