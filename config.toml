@@ -1,0 +1,6 @@
+baseURL = "https://khaledaxeldjebbari.github.io/"
+languageCode = "en-us"
+title = "Khaled Axel Djebbari"
+
+[params.comments]
+enabled = false
