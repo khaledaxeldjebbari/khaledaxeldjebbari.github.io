@@ -8,10 +8,15 @@
   url = "#about"
   weight = 10
 
+  [[main]]
+name = "Short CV"
+url = "/short-cv/"
+weight = 20
+
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 20
+  weight = 40
 
 [[main]]
   name = "Projects"
@@ -47,10 +52,7 @@
   parent = "dropdown"
   name = "dropdown 2"
   url = "#!"
-[[main]]
-name = "Short CV"
-url = "/short-cv/"
-weight = 20
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
